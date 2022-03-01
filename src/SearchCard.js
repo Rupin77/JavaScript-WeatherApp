@@ -37,7 +37,7 @@ function Search() {
         <>
             <div className="row">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                    <a className="navbar-brand" href="#"><i className="cloud-and-sun" style={{ marginRight: '8px', fontSize: '25px', marginLeft: '12px' }}></i>Online Weather Updates</a>
+                    <a className="navbar-brand" href="#"><i className="cloud-and-sun" style={{ marginRight: '8px', fontSize: '25px', marginLeft: '12px' }}></i>Weather App</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
