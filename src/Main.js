@@ -71,7 +71,7 @@ function Main() {
         <div className="container-fluid mainBody">
             <div className="row">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                    <a className="navbar-brand" href="#"><i className="cloud-sun" style={{marginRight: '8px', fontSize: '25px'}}></i>Online Weather Updates</a>
+                    <a className="navbar-brand" href="#"><i className="cloud-sun" style={{marginRight: '8px', fontSize: '25px'}}></i>Weather App</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#NavigateBar" aria-controls="NavigateBar" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
