@@ -1,3 +1,13 @@
+/*********************************************************************************
+* BTI425 – Assignment 2
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Rupin Sharma ID: 106212202 Date: 2022/02/28
+* Heroku Link: https://tranquil-taiga-58654.herokuapp.com/
+*
+********************************************************************************/
 import axios from "axios";
 import { useState, useEffect } from "react";
 import React from 'react';
