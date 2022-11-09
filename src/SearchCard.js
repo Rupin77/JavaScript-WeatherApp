@@ -52,7 +52,7 @@ function Search() {
             </div>
             <form><div className="body">
                <div className="card">
-                    <h3>Please enter a cityr.</h3>
+                    <h3>Please enter a city or a country to get the weather.</h3>
                     <div className="row">
                         <div className="col-10 mt-2">
                             <input type="text" id="city" className="search-bar" value={CountryandCity} onChange={e => setName(e.target.value)} />
